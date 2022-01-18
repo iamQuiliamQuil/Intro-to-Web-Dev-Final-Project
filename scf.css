@@ -1,0 +1,28 @@
+body {background-color:F7BB67;}
+	background-repeat: repeat;
+
+title {background-color: #06fb61;
+		font-weight: bold;
+		font-size:1em;
+font-family: Comic Sans, sans-serif;}
+
+nav {background-color: #ffc0cb;
+	font-family: Comic Sans, sans-serif;
+	font-weight: bold;
+	font-size: 1em;}
+
+h1, h3 {background-color: #9932cc;
+		font-family: Comic Sans, sans-serif;
+		font-size: 1.25em;
+		color: #FFFEFE;}
+
+table {color: #008000;}
+table-column{color: #D85B33;}
+
+p {font-size: 1em;
+font-family: Comic Sans, san-serif;
+color: #ffc0cb;}
+
+ 
+
+
